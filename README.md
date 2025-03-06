@@ -10,7 +10,7 @@ Hi, I'm **Shivangi Gupta!** I have a strong background in **Mathematics** and a 
 
 I enjoy working with data to uncover patterns, improve decision-making, and drive business growth. Explore my projects to see how I apply analytics to real-world problems.
 
-My CV in [pdf]()
+My CV in [pdf.](https://github.com/Shivi2599/Data_Analysis_Portfolio/blob/main/Shivangi%20Gupta%20CV.pdf)
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics related topics.
 
@@ -33,4 +33,6 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects 
 
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+### 
 
