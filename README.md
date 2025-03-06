@@ -27,8 +27,8 @@ This is a repository to showcase skills, share projects and track my progress in
        - [Covid-19 Data Analysis](#covid-19-data-analysis)
        - [Instagram user Analytics](#instagram-user-analytics)
     - Power BI
-       - [Online Retail Data](#online-retail-data)
-       - [Forage PwC Power BI Job Simulation](#forage-pwc-power=bi-job-simulation)
+       - [Online Retail Data Analysis](#online-retail-data-analysis)
+       - [Forage PwC Power BI Job Simulation](#forage-pwc-power-bi-job-simulation)
     - Excel
 - [Education](#education) 
 - [Certificates](#certificates)
@@ -160,13 +160,22 @@ Each dashboard provided clear **KPIs and data-driven narratives** to support str
 
 
 ## Education
-Panjab University, Chandigarh
-Master of Science - Mathematics                                          June 2022
+Panjab University, Chandigarh                   
+Master of Science - Mathematics                   
+June 2022
 
-Panjab University, Chandigarh
-Bachelors of Science - Mathematics
+Panjab University, Chandigarh                   
+Bachelors of Science - Mathematics                   
 June 2020
 
+## Internships Undertaken
+- Labmentix Internship (March 2025 - Present)
+- Hype Intern (September 2024)
+- Glorivita CraftTech Solutions (August 2024)
+- Mentorness Community(June 2024 - July 2024)
+- Innobytes Services (May 2024 - June 2024)
+- Trainity (January 2024 - March 2024)
+  
 ## Certificates
 
 Here's a list of the ones I have:
