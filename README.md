@@ -21,10 +21,10 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](#portfolio-projects)
     - Python
        - [Analyzing the Factors affecting Student Performance](#analyzing-the-factors-affecting-student-performance)
-       - [E-Commerce Analysis](#e---commerce-analysis)
+       - [E-Commerce Analysis](#e-commerce-analysis)
        - [Word Guessing Game](#word-guessing-game)
     - MySQL
-       - [Covid-19 Data Analysis](#covid---19-data-analysis)
+       - [Covid-19 Data Analysis](#covid-19-data-analysis)
        - [Instagram user Analytics](#instagram-user-analytics)
     - Power BI
        - [Online Retail Data](#online-retail-data)
