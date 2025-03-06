@@ -2,7 +2,7 @@
 ## About
 Hi, I'm **Shivangi Gupta!** I have a strong background in **Mathematics** and a passion for transforming data into actionable insights. Currently, I specialize in **data analysis and visualization**, leveraging tools like **Python, MySQL, Excel, and Power BI** to uncover trends and drive decision-making.
 
-## Skills & Tools
+## Skills and Tools
 - **Programming & Data Analysis:** Python (Pandas, NumPy, Tkinter)
 - **Visualization:** Power BI, Matplotlib, Seaborn
 - **Database Management:** MySQL
@@ -17,23 +17,22 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 
 - [About](#about)
-- Portfolio Projects
+- [Skills and Tools](#skills-and-tools)
+- [Portfolio Projects](#portfolio-projects)
     - Python
-       - Analyzing the Factors affecting Student Performance
-       - E-Commerce Analysis
-       - Word Guessing Game
+       - [Analyzing the Factors affecting Student Performance](#analyzing-the-factors-affecting-student-performance)
+       - [E-Commerce Analysis](#e--commerce-analysis)
+       - [Word Guessing Game](#word-guessing-game)
     - MySQL
-       - Corona Virus Analysis
-       - Instagram user Analytics
+       - [Covid-19 Data Analysis](#covid--19-data-analysis)
+       - [Instagram user Analytics](#instagram-user-analytics)
     - Power BI
-       - Online Retail Data
-       - 
- 
+       - [Online Retail Data](#online-retail-data)
+       - [Forage PwC Power BI Job Simulation](#forage-pwc-power=bi-job-simulation)
     - Excel
- 
-- Education
-- Certificates
-- Contacts
+- [Education](#education) 
+- [Certificates](#certificates)
+- [Contacts](#contacts)
 
 ## Portfolio Projects 
 
