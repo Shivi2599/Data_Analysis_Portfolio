@@ -30,6 +30,7 @@ This is a repository to showcase skills, share projects and track my progress in
        - [Online Retail Data Analysis](#online-retail-data-analysis)
        - [Forage PwC Power BI Job Simulation](#forage-pwc-power-bi-job-simulation)
     - Excel
+       - [MediBuddy Insurance Project](#medibuddy-insurance-project)
 - [Education](#education) 
 - [Certificates](#certificates)
 - [Contacts](#contacts)
@@ -136,7 +137,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### *Forage PwC Power BI Job Simulation*
 
-**Code:**[Forage-PwC-Power-BI-Job-Simulation.pbix](https://github.com/Shivi2599/Forage-PwC-Power-BI-Job-Simulation/tree/main?tab=readme-ov-file)
+**Code:** [Forage-PwC-Power-BI-Job-Simulation.pbix](https://github.com/Shivi2599/Forage-PwC-Power-BI-Job-Simulation/tree/main?tab=readme-ov-file)
 
 **Goal:** To provide data-driven insights for a telecom client through Power BI dashboards, helping the company optimize customer service, retention strategies, and diversity efforts.
 
@@ -158,7 +159,22 @@ Each dashboard provided clear **KPIs and data-driven narratives** to support str
 
 
 
+### *MediBuddy Insurance Project*
 
+**Code:** [MediBuddy Insurance.xls](https://github.com/Shivi2599/Labmentix-Internship-Projects/tree/main/MediBuddy%20Insurance%20Project)
+
+**Goal:** Identify if the key factors like **gender, BMI, age, smoking status, geographic location, and number of dependents** influences insurance claims and policy costs.
+
+**Description:** This project explores health insurance claims using Excel, focusing on key factors like **age, BMI, smoking status, and dependents**. It includes **exploratory data analysis (EDA), statistical testing (regression), data visualization** for estimating insurance costs.
+
+**Skills:** Statistical Analysis, Reporting, Case study Analysis
+
+**Results:** 
+- **Smokers** have significantly higher insurance costs.
+- **BMI and age** play a crucial role in determining claim amounts.
+- **Gender** has minimal impact.
+- **Geographic location** does not significantly affect insurance charges.
+ 
 ## Education
 Panjab University, Chandigarh                   
 Master of Science - Mathematics                   
