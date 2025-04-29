@@ -4,13 +4,13 @@ Hi, I'm **Shivangi Gupta!** I have a strong background in **Mathematics** and a 
 
 ## Skills and Tools
 - **Programming & Data Analysis:** Python (Pandas, NumPy, Tkinter)
-- **Visualization:** Power BI, Matplotlib, Seaborn
+- **Visualization:** Power BI, Matplotlib, Seaborn, Plotly.express
 - **Database Management:** MySQL
 - **Excel & Reporting:** Pivot Tables, VLOOKUP, Conditional Formatting, Dashboards
 
 I enjoy working with data to uncover patterns, improve decision-making, and drive business growth. Explore my projects to see how I apply analytics to real-world problems.
 
-My CV in [pdf.](https://github.com/Shivi2599/Data_Analysis_Portfolio/blob/main/Shivangi%20Gupta%20CV.pdf)
+My Resume in [pdf.](https://github.com/Shivi2599/Data_Analysis_Portfolio/blob/main/Shivangi_Gupta_Resume.....pdf)
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics related topics.
 
